@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Google Clone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main">
+    <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Logo" class="logo">
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search Google or type a URL" oninput="showSuggestions()">
+      <ul id="suggestions"></ul>
+      <div class="buttons">
+        <button onclick="search()">Google Search</button>
+        <button onclick="lucky()">I'm Feeling Lucky</button>
+        <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+      </div>
+    </div>
+    <div id="results"></div>
+    <div id="history"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

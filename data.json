@@ -1,0 +1,30 @@
+{
+  "amazon": {
+    "title": "Amazon - Online Shopping Site",
+    "url": "https://www.amazon.in"
+  },
+  "meesho": {
+    "title": "Meesho - Online Shopping App",
+    "url": "https://www.meesho.com"
+  },
+  "flipkart": {
+    "title": "Flipkart - The Online Megastore",
+    "url": "https://www.flipkart.com"
+  },
+  "swiggy": {
+    "title": "Swiggy - Order Food Online",
+    "url": "https://www.swiggy.com"
+  },
+  "zomato": {
+    "title": "Zomato - Restaurants Near You",
+    "url": "https://www.zomato.com"
+  },
+  "netflix": {
+    "title": "Netflix - Watch TV Shows Online",
+    "url": "https://www.netflix.com/in/"
+  },
+  "youtube": {
+    "title": "YouTube",
+    "url": "https://www.youtube.com"
+  }
+}
