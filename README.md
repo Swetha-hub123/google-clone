@@ -6,7 +6,7 @@ A simple and responsive **Google Search homepage clone** built with **HTML, CSS 
 
 Click the link below to try the live version (if deployed):
 
-🎯 **Live Demo:** `https://your-github-username.github.io/your-repo/` *(replace with your link)*
+🎯 **Live Demo:** `https://your-github-username.github.io/your-repo/` 
 
 ## 🧠 About
 
